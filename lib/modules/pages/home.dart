@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text("Home Page!!!!", style: TextStyle(color: AppColors.primaryColor),),
+        child: Text("Landing Page is here!!!!", style: TextStyle(color: AppColors.primaryColor),),
       )
     );
   }
